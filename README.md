@@ -3,4 +3,4 @@ In-Depth Analysis of the "Palestinian-Israeli Conflict ⚔️" project endeavors
 
 Project Links:
 - [Word Report](https://1drv.ms/w/s!AhwYp5S7A7nLhzzuG-e05WluXC4o?e=FByk6a)
-- [Excel Dashboard](https://1drv.ms/x/s!AhwYp5S7A7nLh0VVcRwS5Zv05GPa?e=PBltdO&nav=MTVfe0MzOUIyQjcyLUE5NzYtNEI3Qi1CQjczLTIxNEVDRUE0QTQ0RX0)
+- [Excel Dashboard](https://1drv.ms/x/s!AhwYp5S7A7nLh0yXWsWCYsQNxqbj?e=RhobvT)
